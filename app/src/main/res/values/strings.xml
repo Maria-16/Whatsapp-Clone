@@ -1,0 +1,32 @@
+<resources>
+
+    //Splash Screen Strings
+    <string name="app_name"> Whatsapp</string>
+    <string name="from"> from </string>
+    <string name="facebook"> Facebook </string>
+
+    //Agree_terms Strings
+    <string name="welcome"> Welcome to WhatsApp </string>
+    <string name="button"> Agree and Continue </string>
+    <string name="t1"> Read our Privacy Policy. Tap \'Agree and Continue\' to accept the Terms of service. </string>
+
+    //Phone_number_enter
+    <string name="enter"> Enter your Phone number </string>
+    <string name="verify"> Whatsapp will send an SMS message to verify your phone number. What\'s my number? </string>
+    <string name="carrier"> Carrier SMS charges may apply </string>
+    <string name="next"> Next </string>
+    <string name="phone_number">Phone number</string>
+    <string name="sign">+</string>
+
+    //phont_otp strings
+    <string name="Verify">Verify number</string>
+    <string name="code">Enter 6-digit code </string>
+    <string name="bottom">Verify</string>
+    <string name="resend_sms">Resend SMS</string>
+    <string name="auto_detect">Waiting to automatically detect an SMS sent to number. Wrong number? </string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
