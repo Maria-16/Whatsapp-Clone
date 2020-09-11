@@ -9,7 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".Phone"></activity>
+        <activity android:name=".Home_screen"></activity>
+        <activity android:name=".Phone" />
         <activity android:name=".Phone_verify" />
         <activity android:name=".Agree_terms" />
         <activity android:name=".MainActivity">
