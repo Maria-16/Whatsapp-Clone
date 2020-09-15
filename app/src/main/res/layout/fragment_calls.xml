@@ -6,9 +6,18 @@
     tools:context=".Calls">
 
     <!-- TODO: Update blank fragment layout -->
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:text="Calls Fragment" />
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent">
+        <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/f3_action"
+        android:src="@drawable/phone_icon"
+        android:backgroundTint="@color/bright_green"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_margin="15dp"/>
+    </RelativeLayout>
 
 </RelativeLayout>

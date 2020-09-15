@@ -101,6 +101,7 @@ public class Phone extends AppCompatActivity {
         String code = pinFromUser.getText().toString();
         if (!code.isEmpty()) {
             verifyCode(code);
+
         }
     }
 }

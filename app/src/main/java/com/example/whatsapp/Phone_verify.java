@@ -30,7 +30,7 @@ public class Phone_verify extends AppCompatActivity {
         String phoneNo = phoneNumber.getEditText().getText().toString();
 
         //Call the next activity and pass phone no with it
-        Intent intent = new Intent(Phone_verify.this, Phone.class);
+        Intent intent = new Intent(Phone_verify.this, Home_screen.class);
         intent.putExtra("phoneNo", phoneNo);
         startActivity(intent);
     }
